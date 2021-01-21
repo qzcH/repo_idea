@@ -6,4 +6,7 @@ package com.lagou.dao;
  * @description
  */
 public interface GitMapper {
+
+    public void add();
+
 }
